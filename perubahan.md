@@ -1,7 +1,15 @@
 # Perubahan Muzik
 
-Tulis versi terbaru di ATAS. Format tajuk mesti: ## v1.3.0
+Tulis versi terbaru di ATAS. Format tajuk: `## v2.0.0` (nombor sama seperti dalam version.properties).
 Perubahan kecil ditulis dengan awalan [bina N].
+
+## v2.0.0
+- Skrin sedang dimainkan direka semula ikut gaya Apple Music: tajuk berfon serif, butang bintang (Favorit) dan butang tiga titik di sebelah tajuk.
+- Label format dan kualiti di bawah bar kemajuan (contoh MP3 - 320 kbps, FLAC - Lossless).
+- Slider kelantangan dan butang bawah: Info lagu, Peranti output dan Giliran seterusnya.
+- Menu tiga titik: Favorit, Tambah ke playlist, Info lagu, Cari lagu artis, Rawak, Ulang, Kelajuan main, Pemasa tidur, Kongsi lagu dan Sorok lagu.
+- Menu tekan lama: tambah Main seterusnya dan Tambah ke giliran.
+- Ikon Favorit ditukar daripada hati kepada bintang.
 
 ## v1.3.0
 - Tetapan baharu: Sorok lagu pendek (tiada, 15, 30, 60, 90, 120 saat atau tersuai). Nilai awal 30 saat.
