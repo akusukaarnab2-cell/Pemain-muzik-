@@ -10,6 +10,7 @@ Perubahan kecil ditulis dengan awalan [bina N].
 - Tetapan baharu: Sumber lirik (LRCLIB, NetEase Music, KuGou). Seret untuk susun turutan, tanda untuk hidup atau matikan, dan cache lirik supaya boleh dibaca tanpa internet.
 - Menu tiga titik: tambah Lirik, Muat semula lirik dan Sumber lirik.
 - Butang cast/output dibuang.
+- [bina 2] Lirik tidak lagi kabur. Baris yang jauh hanya semakin malap.
 
 ## v2.0.0
 - Skrin sedang dimainkan direka semula ikut gaya Apple Music: tajuk berfon serif, butang bintang (Favorit) dan butang tiga titik di sebelah tajuk.
