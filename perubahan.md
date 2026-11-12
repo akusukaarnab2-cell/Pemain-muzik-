@@ -3,6 +3,19 @@
 Tulis versi terbaru di ATAS. Format tajuk: `## v2.0.0` (nombor sama seperti dalam version.properties).
 Perubahan kecil ditulis dengan awalan [bina N].
 
+## v2.3.0
+- Tema baharu: Putih, Hitam atau Ikut sistem. Bar status dan bar navigasi turut berubah.
+- Warna aksen boleh dipilih: Merah, Biru, Hijau, Oren atau Ungu.
+- Saiz teks lirik: Kecil, Sederhana atau Besar.
+- Pilihan tunjuk atau sorok label kualiti (format dan bitrate).
+- Jeda muzik secara automatik bila fon kepala dicabut.
+- Skrin kekal hidup semasa lirik dipaparkan (pilihan).
+- Set semula bilangan main untuk senarai Paling kerap dimainkan.
+
+## v2.2.0
+- Menu baharu di Pustaka: Artis dan Album. Tekan artis atau album untuk lihat senarai lagunya.
+- Lagu dalam album disusun mengikut nombor trek.
+
 ## v2.1.0
 - Lirik bergerak ikut gaya Apple Music: baris aktif putih, perkataan menyala satu persatu, baris lain kabur mengikut jarak dan skrol sendiri mengikut lagu.
 - Butang lirik di skrin sedang dimainkan. Latar belakang kabur ikut warna gambar album. Kawalan disorok selepas 5 saat dan muncul semula bila disentuh.
