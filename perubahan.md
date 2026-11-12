@@ -3,6 +3,14 @@
 Tulis versi terbaru di ATAS. Format tajuk: `## v2.0.0` (nombor sama seperti dalam version.properties).
 Perubahan kecil ditulis dengan awalan [bina N].
 
+## v2.1.0
+- Lirik bergerak ikut gaya Apple Music: baris aktif putih, perkataan menyala satu persatu, baris lain kabur mengikut jarak dan skrol sendiri mengikut lagu.
+- Butang lirik di skrin sedang dimainkan. Latar belakang kabur ikut warna gambar album. Kawalan disorok selepas 5 saat dan muncul semula bila disentuh.
+- Tekan baris lirik untuk lompat ke bahagian itu.
+- Tetapan baharu: Sumber lirik (LRCLIB, NetEase Music, KuGou). Seret untuk susun turutan, tanda untuk hidup atau matikan, dan cache lirik supaya boleh dibaca tanpa internet.
+- Menu tiga titik: tambah Lirik, Muat semula lirik dan Sumber lirik.
+- Butang cast/output dibuang.
+
 ## v2.0.0
 - Skrin sedang dimainkan direka semula ikut gaya Apple Music: tajuk berfon serif, butang bintang (Favorit) dan butang tiga titik di sebelah tajuk.
 - Label format dan kualiti di bawah bar kemajuan (contoh MP3 - 320 kbps, FLAC - Lossless).
