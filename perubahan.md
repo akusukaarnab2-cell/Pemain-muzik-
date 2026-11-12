@@ -3,6 +3,21 @@
 Tulis versi terbaru di ATAS. Format tajuk: `## v2.0.0` (nombor sama seperti dalam version.properties).
 Perubahan kecil ditulis dengan awalan [bina N].
 
+## v2.5.0
+- Laras lirik: tekan label "Lirik oleh ..." atau menu tiga titik, kemudian Laras lirik. Boleh lewatkan atau awalkan lirik setiap 0.5 saat untuk setiap lagu (diingat).
+- Paparan tempoh versi lirik berbanding lagu anda, untuk mengesan lirik versi lain.
+- Butang Cuba sumber lirik lain jika lirik tidak sepadan.
+- Padanan lirik lebih ketat: lirik dengan tempoh beza lebih 4 saat tidak diterima.
+- Sokongan tag [offset:] dalam fail lirik.
+- Tetapan baharu: Perkataan menyala satu persatu (boleh dimatikan supaya seluruh baris menyala serentak).
+
+## v2.4.0
+- Butang lirik di skrin sedang dimainkan dibetulkan: tidak lagi terpotong di bahagian bawah.
+- Tetapan baharu: Latar lirik (album kabur atau hitam pekat).
+- Tetapan baharu: Tunjuk gambar album, Tunjuk masa berbaki, Kurangkan gerakan.
+- Tetapan baharu: Bilangan lagu dalam Paling kerap dimainkan (3, 6, 9 atau 12).
+- Tetapan baharu: Hentikan muzik bila app disapu, Ulang lalai dan Rawak sebagai lalai.
+
 ## v2.3.0
 - Tema baharu: Putih, Hitam atau Ikut sistem. Bar status dan bar navigasi turut berubah.
 - Warna aksen boleh dipilih: Merah, Biru, Hijau, Oren atau Ungu.
