@@ -3,6 +3,13 @@
 Tulis versi terbaru di ATAS. Format tajuk: `## v2.0.0` (nombor sama seperti dalam version.properties).
 Perubahan kecil ditulis dengan awalan [bina N].
 
+## v2.8.0
+- Mini player baharu untuk notifikasi dan skrin kunci menggunakan sesi media Android: gambar album, tajuk, artis, bar kemajuan yang boleh diseret (Android 11 ke atas), dan butang menu, sebelumnya, main/jeda, seterusnya serta favorit.
+- Rupa mengikut tema telefon (terang atau gelap) dan warna album secara automatik.
+- Butang favorit dalam notifikasi disegerakkan dengan senarai Favorit dalam app.
+- Butang fon kepala atau Bluetooth (main, jeda, seterusnya, sebelumnya) turut berfungsi melalui sesi media.
+- Ikon butang notifikasi direka baharu dalam gaya pepejal (menu, sebelumnya, main, jeda, seterusnya, hati).
+
 ## v2.7.0
 - Skrin player (tanpa lirik) kini berlatar warna album, sama seperti skrin lirik: latar kabur dengan teks dan butang putih.
 - Bar status dan bar navigasi telefon mengikut warna album bila player dibuka dan kembali ke warna tema bila player ditutup.
