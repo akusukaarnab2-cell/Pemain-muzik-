@@ -3,6 +3,12 @@
 Tulis versi terbaru di ATAS. Format tajuk: `## v2.0.0` (nombor sama seperti dalam version.properties).
 Perubahan kecil ditulis dengan awalan [bina N].
 
+## v2.6.0
+- Animasi lirik dibaharui ikut video rujukan: penyerlahan perkataan kini menyapu secara licin (bukan lompat), dengan tepi lembut.
+- Tiga titik pemasaan muncul sebelum lirik bermula (intro) dan semasa bahagian instrumental. Titik menyala satu persatu mengikut masa dan mengecil sebelum baris seterusnya masuk.
+- Skrol lirik berhenti pada titik semasa jeda, kemudian bergerak ke baris yang bermula.
+- Animasi titik mengikut tetapan Kurangkan gerakan.
+
 ## v2.5.0
 - Laras lirik: tekan label "Lirik oleh ..." atau menu tiga titik, kemudian Laras lirik. Boleh lewatkan atau awalkan lirik setiap 0.5 saat untuk setiap lagu (diingat).
 - Paparan tempoh versi lirik berbanding lagu anda, untuk mengesan lirik versi lain.
