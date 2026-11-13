@@ -12,6 +12,7 @@ Perubahan kecil ditulis dengan awalan [bina N].
 - Tetapan baharu: Perkataan menyala satu persatu (boleh dimatikan supaya seluruh baris menyala serentak).
 - [bina 2] Butang back dibetulkan: tutup menu/sheet dahulu, tunjuk semula kawalan bila lirik skrin penuh, tutup player, kembali ke skrin sebelumnya, dan tekan dua kali di Pustaka untuk keluar.
 - [bina 3] Ketinggian dan kedudukan kawalan player (bar kemajuan, butang main, kelantangan, ikon bawah) diseragamkan antara mod lirik dan tanpa lirik.
+- [bina 4] Gambar album di skrin player kekal saiz yang sama bila main atau jeda (tidak lagi mengecil semasa dijeda).
 
 ## v2.4.0
 - Butang lirik di skrin sedang dimainkan dibetulkan: tidak lagi terpotong di bahagian bawah.
