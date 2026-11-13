@@ -3,6 +3,12 @@
 Tulis versi terbaru di ATAS. Format tajuk: `## v2.0.0` (nombor sama seperti dalam version.properties).
 Perubahan kecil ditulis dengan awalan [bina N].
 
+## v2.7.0
+- Skrin player (tanpa lirik) kini berlatar warna album, sama seperti skrin lirik: latar kabur dengan teks dan butang putih.
+- Bar status dan bar navigasi telefon mengikut warna album bila player dibuka dan kembali ke warna tema bila player ditutup.
+- Warna diambil daripada bahagian atas dan bawah gambar album supaya sambungan dengan bar telefon licin.
+- Jika gambar album dimatikan, warna dijana daripada nama lagu.
+
 ## v2.6.0
 - Animasi lirik dibaharui ikut video rujukan: penyerlahan perkataan kini menyapu secara licin (bukan lompat), dengan tepi lembut.
 - Tiga titik pemasaan muncul sebelum lirik bermula (intro) dan semasa bahagian instrumental. Titik menyala satu persatu mengikut masa dan mengecil sebelum baris seterusnya masuk.
