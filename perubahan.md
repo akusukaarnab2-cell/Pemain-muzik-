@@ -3,6 +3,12 @@
 Tulis versi terbaru di ATAS. Format tajuk: `## v2.0.0` (nombor sama seperti dalam version.properties).
 Perubahan kecil ditulis dengan awalan [bina N].
 
+## v2.9.0
+- Sumber lirik baharu: Musixmatch (carian, richsync dengan masa setiap perkataan, dan subtitle baris), LRC.red, SimpMusic dan Unison. Semua boleh disusun semula atau dimatikan di Tetapan, Sumber lirik.
+- Lirik Musixmatch richsync menggunakan masa perkataan sebenar, jadi sapuan perkataan lebih tepat.
+- Sumber baharu ditambah selepas sumber lama, jadi tidak mengganggu turutan sedia ada.
+- Pencarian lirik membaca jawapan JSON secara fleksibel untuk LRC.red, SimpMusic dan Unison.
+
 ## v2.8.0
 - Mini player baharu untuk notifikasi dan skrin kunci menggunakan sesi media Android: gambar album, tajuk, artis, bar kemajuan yang boleh diseret (Android 11 ke atas), dan butang menu, sebelumnya, main/jeda, seterusnya serta favorit.
 - Rupa mengikut tema telefon (terang atau gelap) dan warna album secara automatik.
