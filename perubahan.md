@@ -3,11 +3,19 @@
 Tulis versi terbaru di ATAS. Format tajuk: `## v2.0.0` (nombor sama seperti dalam version.properties).
 Perubahan kecil ditulis dengan awalan [bina N].
 
+## v2.10.0
+- Sumber lirik dengan masa gaya Apple Music: Apple Music (Paxsenix) dengan masa suku kata, dan BetterLyrics (TTML Apple Music) dengan masa perkataan. Kedua-duanya diletakkan di hadapan senarai.
+- SimpMusic dibuang kerana ia hanya boleh dicari menggunakan ID video YouTube, jadi tidak sesuai untuk lagu dalam telefon.
+- Butang baharu Uji semua sumber di Tetapan, Sumber lirik. Ia menguji setiap sumber dengan satu lagu terkenal dan menunjukkan Berfungsi atau Gagal. Butang Matikan sumber yang gagal mematikan sumber yang gagal.
+- LRC.red dan Unison kini boleh membaca respons TTML selain LRC.
+- Lirik TTML ditukar kepada masa perkataan secara automatik, termasuk menapis suara latar dan terjemahan.
+
 ## v2.9.0
 - Sumber lirik baharu: Musixmatch (carian, richsync dengan masa setiap perkataan, dan subtitle baris), LRC.red, SimpMusic dan Unison. Semua boleh disusun semula atau dimatikan di Tetapan, Sumber lirik.
 - Lirik Musixmatch richsync menggunakan masa perkataan sebenar, jadi sapuan perkataan lebih tepat.
 - Sumber baharu ditambah selepas sumber lama, jadi tidak mengganggu turutan sedia ada.
 - Pencarian lirik membaca jawapan JSON secara fleksibel untuk LRC.red, SimpMusic dan Unison.
+- [bina 2] Dibetulkan: sumber lirik yang dinyahtanda kini boleh dipilih semula (butang kini bulatan yang sentiasa boleh ditekan).
 
 ## v2.8.0
 - Mini player baharu untuk notifikasi dan skrin kunci menggunakan sesi media Android: gambar album, tajuk, artis, bar kemajuan yang boleh diseret (Android 11 ke atas), dan butang menu, sebelumnya, main/jeda, seterusnya serta favorit.
