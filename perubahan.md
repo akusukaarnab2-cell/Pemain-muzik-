@@ -3,6 +3,11 @@
 Tulis versi terbaru di ATAS. Format tajuk: `## v2.0.0` (nombor sama seperti dalam version.properties).
 Perubahan kecil ditulis dengan awalan [bina N].
 
+## v2.11.0
+- Ikon app baharu: fon kepala putih pada latar merah, termasuk ikon adaptif untuk Android 8 ke atas dan ikon bertema untuk Android 13 ke atas.
+- Halaman Tetapan disusun semula dalam kumpulan kad yang kemas: Paparan, Lirik, Pemainan, Perpustakaan dan Data. Tetapan lirik dikumpulkan di satu tempat.
+- Baris tetapan seragam: label di kiri, nilai di kanan, penerangan ringkas di bawah suis.
+
 ## v2.10.0
 - Sumber lirik dengan masa gaya Apple Music: Apple Music (Paxsenix) dengan masa suku kata, dan BetterLyrics (TTML Apple Music) dengan masa perkataan. Kedua-duanya diletakkan di hadapan senarai.
 - SimpMusic dibuang kerana ia hanya boleh dicari menggunakan ID video YouTube, jadi tidak sesuai untuk lagu dalam telefon.
