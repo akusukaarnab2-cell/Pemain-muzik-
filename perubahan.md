@@ -10,6 +10,8 @@ Perubahan kecil ditulis dengan awalan [bina N].
 - LRC.red dan Unison kini boleh membaca respons TTML selain LRC.
 - Lirik TTML ditukar kepada masa perkataan secara automatik, termasuk menapis suara latar dan terjemahan.
 - [bina 2] Dibetulkan: app memaparkan skrin kosong selepas kemas kini kerana senarai sumber lirik dimuatkan sebelum ia sedia. Kini dimuatkan pada masa yang betul.
+- [bina 3] Tulisan lirik dikemaskan: ketebalan lalai dikurangkan kepada Sederhana. Tetapan baharu Ketebalan teks lirik (Nipis, Sederhana, Tebal).
+- [bina 4] Tulisan lirik ditebalkan sedikit: ketebalan lalai kini Lebih tebal. Pilihan ketebalan kini Nipis, Sederhana, Tebal, Lebih tebal dan Paling tebal.
 
 ## v2.9.0
 - Sumber lirik baharu: Musixmatch (carian, richsync dengan masa setiap perkataan, dan subtitle baris), LRC.red, SimpMusic dan Unison. Semua boleh disusun semula atau dimatikan di Tetapan, Sumber lirik.
