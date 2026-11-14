@@ -9,6 +9,7 @@ Perubahan kecil ditulis dengan awalan [bina N].
 - Butang baharu Uji semua sumber di Tetapan, Sumber lirik. Ia menguji setiap sumber dengan satu lagu terkenal dan menunjukkan Berfungsi atau Gagal. Butang Matikan sumber yang gagal mematikan sumber yang gagal.
 - LRC.red dan Unison kini boleh membaca respons TTML selain LRC.
 - Lirik TTML ditukar kepada masa perkataan secara automatik, termasuk menapis suara latar dan terjemahan.
+- [bina 2] Dibetulkan: app memaparkan skrin kosong selepas kemas kini kerana senarai sumber lirik dimuatkan sebelum ia sedia. Kini dimuatkan pada masa yang betul.
 
 ## v2.9.0
 - Sumber lirik baharu: Musixmatch (carian, richsync dengan masa setiap perkataan, dan subtitle baris), LRC.red, SimpMusic dan Unison. Semua boleh disusun semula atau dimatikan di Tetapan, Sumber lirik.
